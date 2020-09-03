@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 192.168.1.5
+    port: 5672
+    username: yangyu
+    password: yangyu
+    virtual-host: orders
